@@ -1,7 +1,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Nicolás Varas Figuroa
+        <samp> Nicolás Varas Figueroa
                 
         </samp>
 </h3>
