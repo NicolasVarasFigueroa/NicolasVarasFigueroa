@@ -1,6 +1,19 @@
-<h1 align="center">Nicolás Varas</h1>
-<h3 align="center">Ingeniero en Informática</h3>
 
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Nicolás Varas Figuroa
+                
+        </samp>
+</h3>
+
+<p align="center"> 
+  <samp>
+    <br>
+    「 Ingeniero en Informatica 」
+    <br>
+    <br>
+  </samp>
+</p>
 
 ## Use To Code
 
