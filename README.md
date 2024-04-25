@@ -1,7 +1,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hola!, me llamo
+        <samp>
                 <b>Nicolas Varas</b>
         </samp>
 </h3>
@@ -9,7 +9,6 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
     「 Ingeniero en Informatica 」
     <br>
