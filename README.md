@@ -2,7 +2,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>
-                <b>Nicolas Varas</b>
+                <b>Nicolás Varas</b>
         </samp>
 </h3>
 
@@ -10,13 +10,13 @@
 <p align="center"> 
   <samp>
     <br>
-    「 Ingeniero en Informatica 」
+    「 Ingeniero en Informática 」
     <br>
     <br>
   </samp>
 </p>
 
-## Use To Code
+## 
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -38,9 +38,3 @@
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasvarasfigueroa&show_icons=true&locale=en&layout=compact" alt="nicolasvarasfigueroa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasvarasfigueroa&show_icons=true&locale=en" alt="nicolasvarasfigueroa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasvarasfigueroa&" alt="nicolasvarasfigueroa" /></p>
